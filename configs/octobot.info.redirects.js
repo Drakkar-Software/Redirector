@@ -1,7 +1,4 @@
-/** @type {import('next').NextConfig} */
-
 const { getGuidesUrl } = require("../lib/url")
-
 
 const octoBotInfo = "octobot.info"
 
